@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/siddharth/Downloads/isothetic/isothetic.cpp
+isothetic.hpp
+/home/siddharth/Downloads/isothetic/isothetic.hpp
+
+/home/siddharth/Downloads/isothetic/isothetic.hpp
+iostream
+-
+vector
+-
+queue
+-
+math.h
+-
+opencv2/core/core.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+
+/home/siddharth/Downloads/isothetic/main.cpp
+stdio.h
+/home/siddharth/Downloads/isothetic/stdio.h
+isothetic.hpp
+/home/siddharth/Downloads/isothetic/isothetic.hpp
+
